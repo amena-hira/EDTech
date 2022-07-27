@@ -1,6 +1,6 @@
 
 .carousel-item {
-    height: 100vh;
+    height: 60vh;
     background-size: cover;
     background-position: center center;
     
@@ -15,5 +15,8 @@
 .carousel-bg-img-3{
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),url(images/cover/cover-3.jpg);
 }
+
+
+
 
 
